@@ -6,8 +6,6 @@ Uma plataforma open source de e-commerce desenvolvida com foco em arquitetura mo
 
 Criar uma plataforma enterprise que simule um ambiente de produção real, utilizando arquitetura distribuída, comunicação assíncrona, observabilidade, autenticação centralizada e pipelines de integração contínua.
 
----
-
 # Stack Tecnológica
 
 ### Backend
