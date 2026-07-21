@@ -1,4 +1,4 @@
-# Enterprise Commerce Platform
+# Enterprise Commerce Platform - V1
 
 Uma plataforma open source de e-commerce desenvolvida com foco em arquitetura moderna, escalabilidade e boas práticas de desenvolvimento. O objetivo do projeto é servir como referência para desenvolvedores que desejam aprender ou implementar uma solução baseada em microsserviços utilizando .NET, Angular e tecnologias cloud.
 
